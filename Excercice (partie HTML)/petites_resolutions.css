@@ -1,0 +1,21 @@
+@media all and (max-width: 900px){
+
+	h1{
+	margin-left: 10%;
+	font-size: 20px;
+	}
+
+
+	.connexion{
+	
+	
+	list-style: none;
+	padding-top: 10px;
+	}
+
+	table {
+		display:flex;
+	
+	}
+	
+}
